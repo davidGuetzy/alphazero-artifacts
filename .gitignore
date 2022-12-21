@@ -1,0 +1,18 @@
+# ignore python2 byte code
+*.pyc
+
+# ignore python3 byte code
+__pycache__/*
+*/__pycache__/*
+
+# ignore emacs backup files
+*~
+
+# ignore pycharm files
+/.idea/
+*/.idea/*
+
+# ignore vs code
+/.vs
+*/.vs/*
+*.DS_Store
