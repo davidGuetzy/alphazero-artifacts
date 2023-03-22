@@ -16,3 +16,6 @@ __pycache__/*
 /.vs
 */.vs/*
 *.DS_Store
+
+# Ignore compiled buffer file
+*/complete_buffer
